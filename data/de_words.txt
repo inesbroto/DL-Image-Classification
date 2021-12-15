@@ -1,0 +1,1446 @@
+n00001740	juristische Person
+n00001930	physikalische Einheit
+n00002137	Abstraktion, abstrakte Entität
+n00002452	Ding
+n00002684	Objekt, physisches Objekt
+n00003553	die ganze Einheit
+n00003993	Artgenossen
+n00004258	lebendiges Ding, belebtes Ding
+n00004475	Organismus, Wesen
+n00005787	Benthos
+n00005930	Zwerg
+n00006024	heterotroph
+n00006150	Elternteil
+n00006269	Leben
+n00006400	biont
+n00006484	Zelle
+n00007347	ursächlicher Agent, Ursache, ursächliche Agentur
+n00007846	Person, Individuum, jemand, jemand, Sterblicher, Seele
+n00015388	tier, beseeltes wesen, tier, brute, kreatur, Fauna
+n00017222	Pflanze, Flora, Pflanzenwelt
+n00019046	einheimisch
+n00019128	Naturobjekt
+n00019613	Substanz
+n00020090	Substanz
+n00020827	Gegenstand
+n00021265	Nahrung, Nährstoffe
+n00021734	Nährstoff
+n00021939	Artefakt, Artefakt
+n00022903	Artikel
+n00023100	psychologische Eigenschaft
+n00023271	Erkenntnis, Wissen, Noesis
+n00023773	Motivation, Motiv, Bedürfnis
+n00024264	Attribut
+n00024720	Zustand
+n00026192	Gefühl
+n00027167	Lage
+n00027807	Form, Form
+n00028270	Zeit
+n00028651	Raum, unendlich
+n00029007	absoluter Raum
+n00029114	Phasenraum
+n00029378	Veranstaltung
+n00029677	Prozess, physikalischer Prozess
+n00030358	Handlung, Tat, menschliches Handeln, menschliche Aktivität
+n00031264	Gruppe, Gruppierung
+n00031921	Beziehung
+n00032613	Besitz
+n00032823	soziale Beziehung
+n00033020	Kommunikation
+n00033615	Maß, Menge, Menge
+n00034213	Phänomen
+n00034479	Ding
+n00034574	Freundlichkeit, Güte
+n00034777	Bauchdeckenstraffung, Bauchstraffung
+n00034939	abbrechen
+n00035189	Leistung, Leistung
+n00035697	agon
+n00035891	Entfremdung
+n00036061	Anwendung
+n00036299	Brückenkopf, Stützpunkt
+n00036580	Spaziergang
+n00036762	Leistung, Anstrengung, Ausbeutung
+n00037006	Meisterstück
+n00037090	Meisterstück
+n00037200	Kredit
+n00037396	Handlung
+n00038175	res gestae
+n00038262	Kurs, Vorgehensweise
+n00038573	Sackgasse
+n00038863	Kollisions-Kurs
+n00039021	Interaktion
+n00039211	Zusammenspiel
+n00039297	Kontakt
+n00039545	Bürste
+n00039740	Blickkontakt
+n00039916	bringen
+n00039990	Platzierung
+n00040152	Austausch, Gegenleistung, Geben und Nehmen
+n00040420	Gegenseitigkeit
+n00040545	gegenseitige Befruchtung, gegenseitige Befruchtung
+n00040804	Umgang, Verkehr
+n00040962	Beziehung
+n00041188	spielen
+n00041468	spielen, Schwertkampf
+n00041614	boondoggle
+n00041740	Bowling
+n00041899	erwerben, bekommen
+n00042311	verursachen, verursachen
+n00042541	Geburt, Geburtshilfe
+n00042757	Abfahrt, gehen, weggehen, gehen
+n00043116	derring-do
+n00043195	entdecken, finden, aufdecken
+n00043609	entsorgung, disposition
+n00043902	Schlag
+n00044150	Umsetzung, Ausführung
+n00044455	Austritt, Austritt, Austritt
+n00044673	Ausgleich, Ausgleich, Nivellierung
+n00044900	Exhumierung, Ausgrabung, Ausgraben
+n00045114	Mizwa, Mizwa
+n00045250	Antrieb, Betätigung
+n00045646	Kundgebung, Kundgebung
+n00045907	Wiederherstellung, Wiederherstellung
+n00046177	Weg rennen
+n00046344	Kunststück
+n00046522	berühren, berühren
+n00047018	Tour de Force
+n00047106	Leistung
+n00047356	Überleistung
+n00047550	Unzureichende Leistung
+n00047745	aufzeichnen, aufzeichnen
+n00047941	vollendete Tatsachen, vollendete Tatsache
+n00048051	gehen, rodeln
+n00048225	ankommen, erreichen
+n00048374	Ankunft
+n00048656	Erreichung
+n00048828	Advent, Kommen
+n00049003	eintreten, eintreten, eintreten, eintreten, eintreten
+n00049344	Einfall
+n00049530	Einbruch
+n00049636	Einbruch
+n00049789	Hauptgericht
+n00049909	mit sich bringen
+n00050037	Anmeldung, Einschreibung, Einschreibung
+n00050195	Aussehen
+n00050484	Erscheinung
+n00050693	Auftauchen, Auftauchen
+n00050887	Wiederauftauchen, Rückkehr
+n00051077	Komm zurück
+n00051192	Rückkehr, Heimkehr
+n00051385	Repatriierung
+n00051525	Penetration
+n00051712	Durchdringung, Durchdringung
+n00051897	Marktdurchdringung
+n00052052	Anchorage
+n00052146	anlegen, festmachen, anlegen, festmachen
+n00052334	Landung
+n00052500	Landung
+n00052791	Notlandung, Notlandung
+n00053020	wegbrechen
+n00053097	Abschied, Abschied, Abschied, Abschied
+n00053405	Französischer Urlaub
+n00053525	Abschied
+n00053609	Verschwinden, Verschwinden
+n00053806	verschwinden
+n00053913	Rückzug
+n00054328	Auslöschung, Selbstauslöschung
+n00054483	Rückzug
+n00054652	Ruhestand, Rückzug
+n00054821	Evakuierung
+n00055038	medizinische evakuierung, medevac, medivac
+n00055227	Aufhebung
+n00055315	Verlassenheit, Verlassenheit, Abfall
+n00055633	Flucht, Aufbruch
+n00055793	Abwesenheit ohne Urlaub, unerlaubte Abwesenheit
+n00055932	Abweichung
+n00056087	Auswanderung, Abwanderung, Auswanderung
+n00056311	Einwanderung, Einwanderung
+n00056551	aliyah
+n00056688	zurückziehen
+n00056912	Rückzug
+n00057162	Stand-down, Stand-down
+n00057306	Ausrasten, Fallback, Auszug
+n00057486	Rückzug, Rezession
+n00057657	Segeln
+n00057748	amphibische Landung
+n00058002	Ausschiffung, Ausschiffung, Ausschiffung
+n00058247	an Land gehen
+n00058337	Einschiffung, Einschiffung, Einschiffung
+n00058519	Ausfahrt
+n00058608	Entführung
+n00058743	Flucht, Flucht
+n00059127	Ausweichen
+n00059376	ausrutschen, ausweichen, ausweichen
+n00059552	Manöver, Manöver, Ausweichmanöver
+n00059728	Clinch
+n00059895	ausweichen
+n00059989	brechen, ausbruch, jailbreak, gaolbreak, gefängnisausbruch, gefängnisausbruch
+n00060201	Flucht, lam
+n00060414	Exodus, Hegira, Hejira
+n00060548	Hegira, Hejira
+n00060747	türmen
+n00060817	U-Bahn, U-Bahn
+n00061014	knapper Anruf, kurze Rasur, Quietschen, Quietschen, enge Flucht
+n00061171	Auftauchen
+n00061290	Versand, Versand, Versand
+n00061453	Rücksendung
+n00061598	Vollendung
+n00061792	Vollendung
+n00061917	Verwirklichung, Verwirklichung, Erfüllung
+n00062133	Orgasmus, Höhepunkt, sexueller Höhepunkt, Kommen
+n00062331	männlicher Orgasmus
+n00062451	Erfüllung, Erfüllung
+n00062671	Selbstverwirklichung, Selbstverwirklichung, Selbstverwirklichung
+n00062806	Erreichung
+n00063014	aufzeichnen
+n00063310	Streckenrekord
+n00063559	Weltrekord
+n00063652	Erfolg
+n00064018	gewinnen
+n00064151	blockbuster, megahit, smash hit
+n00064370	Schläfer
+n00064504	schlagen, zerschmettern, zertrümmern, schlagen, knallen
+n00064789	Glöckchen, Volltreffer, Marke, Homerun
+n00065098	Veredelung
+n00065216	Eroberung
+n00065336	Coup
+n00065418	fliegende farben, fliegende farben
+n00065575	bestehen, bestehen, qualifizieren
+n00065855	Kredit, Kurskredit
+n00066075	Semesterstunde, Kreditstunde
+n00066216	Nichterfüllung, Nichterfüllung
+n00066397	Versagen
+n00066636	Versagen
+n00066901	scheitern, durchfallen
+n00067153	Nichts
+n00067254	schneiden
+n00067397	Ursprünglich
+n00067526	Verlust
+n00067707	Kapitulation, Sturz, Kapitulation
+n00067990	frustration, vereiteln, vereiteln
+n00068170	umkippen, verärgern
+n00068333	Rückfall, Rückfall, Rückfall, Rückfall, Rückfall, Rückfall, Rückfall
+n00068617	Rückfälligkeit
+n00068755	Enttäuschung, Hoffnungslosigkeit
+n00068901	Verstoß
+n00069060	Drück dich
+n00069173	Vertragsbruch
+n00069444	vorausschauender Verstoß, konstruktiver Verstoß
+n00069604	Pflichtverletzung
+n00069685	Verletzung der Gewährleistungspflicht
+n00069815	Versprechen brechen
+n00069918	Vertrauensbruch
+n00070077	Vertrauensbruch mit betrügerischer Absicht
+n00070215	Garantieverletzung
+n00070363	gelehnt
+n00070462	wesentliche Verletzung
+n00070641	motivierend, motivierend
+n00070807	teilweiser Verstoß
+n00070965	Fehler, Fehler, Fehler
+n00071546	Doppelfehler
+n00071700	Fußfehler
+n00071864	Bommel
+n00072068	Fehler, Fehlspiel
+n00072261	beflecken, verschmieren, verschmieren, beflecken, beflecken
+n00072473	Verwirrung, Verwechslung
+n00072691	Einfall
+n00072808	Fehleinschätzung, Fehleinschätzung, Fehleinschätzung
+n00073032	Fehlzündung, Bumerang
+n00073177	Rundung, Rundungsfehler
+n00073525	Kürzungsfehler
+n00073713	Verzerrung
+n00073828	Ausrutscher, Ausrutscher, Fehlverhalten, Fehlverhalten
+n00074092	Freudscher Ausrutscher
+n00074324	abseits
+n00074524	Versehen, Versäumnis
+n00074624	auslassung, überspringen
+n00074790	fehler, ausrutscher, blüter, pfusch, pratfall, faul, scheiße, flub, pfusch, boner, boo-boo
+n00075283	snafu
+n00075471	Schauspiel
+n00075618	ballup, balls-up, cockup, durcheinander
+n00075790	Stier
+n00075912	fummel, muff
+n00076072	Flaum
+n00076196	Fauxpas, Ausrutscher, Solezismus, Ausrutscher, Gaucherie
+n00076323	Heuler
+n00076393	Kracher
+n00076563	stolpern, stolpern, stolpern, Fehltritt
+n00076884	verschütten, stürzen, fallen
+n00077169	Pratfall
+n00077249	auslöschen
+n00077419	Erwerb
+n00077856	Erlangung, Erlangung
+n00077981	fangen, zusammenziehen
+n00078217	anfallend
+n00078393	Geld machen
+n00078536	Annexion
+n00078821	Schweinefass
+n00079018	kaufen
+n00079212	Rücknahme, Rückkauf, Rückkauf
+n00079398	Handel
+n00079603	Anleihenhandel, Anleihenhandelsaktivität
+n00079752	Programmhandel
+n00079908	Leerverkauf, Leerverkauf
+n00080096	kurze Abdeckung
+n00080242	Insiderhandel
+n00080474	nackte Option
+n00080619	abgedeckte Option
+n00080743	Anrufoption, Anruf
+n00080968	Put-Option, Put
+n00081174	Grätschen
+n00081395	Incentive-Option, Incentive-Aktienoption
+n00081572	kaufen, kaufen
+n00081836	Einkaufen
+n00082081	Marketing
+n00082223	Versandhandel, Katalogeinkauf
+n00082347	viatication, viaticus
+n00082525	Annahme
+n00082754	Nachfolge, Übernahme
+n00082870	Annahme, Anspruch erheben
+n00083260	Annahme
+n00083448	Position
+n00083585	Erbe, Erbe
+n00083729	Beschaffung, Beschaffung, Beschaffung
+n00083975	Aneignung
+n00084371	Ausleihe, Adoption
+n00084642	Einbürgerung, Einbürgerung
+n00084895	Veruntreuung
+n00085041	Vorkauf, Vorkauf
+n00085219	Krampfanfall
+n00085432	widerrechtliche Übernahme
+n00085678	Beschlagnahme, Arrogation
+n00085829	Not, Verzweiflung
+n00086140	Enteignung
+n00086297	Beschlagnahme, Beschlagnahme, Internierung
+n00086547	Drogen-Büste, Drogen-Büste
+n00086654	beeindrucken, beeindrucken
+n00086809	Beruf, Belegung, Einzug
+n00087073	Besorgnis, Besorgnis
+n00087218	Beschlagnahme, Anforderung
+n00087423	Zuschuss, Subventionierung, Subventionierung
+n00087663	Auszeichnung, Auszeichnung
+n00087849	Sucht
+n00088154	Blockförderung
+n00088367	Zuschuss
+n00088481	fangen, die Kontrolle erlangen, beschlagnahmen
+n00088725	Festnahme, Festnahme, Fang, Halsband, Kneifen, Inhaftierung
+n00089027	Eroberung, Eroberung, Unterwerfung, Unterwerfung
+n00089234	Versklavung
+n00089351	Restitution, Rückkehr, Wiederherstellung, Wiedererlangung
+n00089657	Rückforderung
+n00089891	Wiederinbesitznahme
+n00090076	Zwangsvollstreckung
+n00090253	Empfang, Empfang
+n00090393	Termin
+n00090610	auskämmen
+n00090779	geben
+n00091013	Aufgabe
+n00091234	wegwerfen, wegwerfen
+n00091404	Inszenierung
+n00091503	verwerfen
+n00091670	Grubenentsorgung
+n00091779	Minenräumung
+n00091893	Abwasserentsorgung
+n00091977	Lockvogeltaktik
+n00092212	Privatvertrag
+n00092366	Auktion, Versteigerung, Verkauf
+n00092663	Schmuggel
+n00092847	Schmuggel
+n00093006	Groß-/Kleinschreibung, Großschreibung
+n00093127	Überkapitalisierung, Überkapitalisierung
+n00093354	Rückgewinnung
+n00093483	Rettung, Befreiung, Lieferung, Rettung
+n00093874	lebensrettend
+n00094001	Erlösung, Erlösung
+n00094240	Absolution, Erlass, Erlass, Erlass der Sünde
+n00094500	Genuss
+n00094788	Bekehrung, Wiedergeburt, geistige Wiedergeburt
+n00094954	Missionierung
+n00095121	Sühne, Sühne, Sühne
+n00095329	Wiedergutmachung, Wiedergutmachung
+n00095502	Befreiung, Befreiung, Befreiung
+n00095873	Gefängnislieferung
+n00095971	Reklamation, Reformation
+n00096211	Bergung
+n00096343	Bergung
+n00096513	Erlösung
+n00096720	Such- und Rettungsmission
+n00096851	Geisel
+n00096969	zurückerobern, wiedererobern
+n00097122	zurückerobern
+n00097244	Aufruf
+n00097348	Instrumentierung
+n00097504	Leistung, Ausführung, Ausführung, Ausführung
+n00097923	Spezifische Leistung
+n00098051	sprachliche Leistung
+n00098385	Mechanismus, Mechanik
+n00098625	Service
+n00098822	Bordsteinservice
+n00098939	Selbstbedienung
+n00099061	Parkservice
+n00099267	dramatische Inszenierung, dramatische Darbietung
+n00099439	Zugabe
+n00099588	Extemporisierung, Extemporisierung, Improvisation
+n00099799	jonglieren, jonglieren
+n00099951	Zaubertrick, Zaubertrick, Trick, Magie, Taschenspielertrick, Beschwörung, Thaumaturgie, Illusion, Täuschung
+n00100253	musikalische Darstellung
+n00100437	One-Night-Stand
+n00100543	Wiedergabe, Wiedergabe, Interpretation
+n00100889	Neuinterpretation
+n00101003	drehen
+n00101191	spielen
+n00101410	Verbeugung
+n00101570	Spiccato, Spiccato-Verbeugung
+n00101708	Rohrleitungen
+n00101809	anhalten
+n00102039	Doppelstopp
+n00102162	Umsetzung
+n00102374	Jam-Session
+n00102457	Automatisierung, Mechanisierung, Mechanisierung
+n00102779	Computerisierung, Kybernation
+n00102927	Motorisierung, Motorisierung
+n00103140	starten, starten
+n00103291	starten
+n00103419	Raketenabschuss, Raketenstart
+n00103590	explodieren, erschossen
+n00103737	Mondschuss
+n00103834	Antrieb, Schub, treibende Kraft
+n00104088	Firewall
+n00104249	Impuls, Impuls, Impuls
+n00104409	Rolle, Schüssel
+n00104539	Wurf
+n00104976	Bowling
+n00105164	schleudern
+n00105271	heben, heben
+n00105479	schleudern, werfen
+n00105624	schlanker
+n00105820	weitergeben, werfen, umdrehen
+n00106104	Tonhöhe
+n00106272	Stellplatz, Lieferung
+n00106726	Klingelton
+n00106888	schüchtern
+n00107016	schleudern
+n00107137	einwerfen
+n00107279	Balken
+n00107400	Ball
+n00107551	Bohnenkugel, Bohnenkraut
+n00107684	Wechsel, Tempowechsel, Tempowechsel Ball, Off-Speed-Pitch
+n00107875	Kurve, Kurvenkugel, Kugel brechen, Bieger
+n00108081	Staubtuch
+n00108181	Fastball, Heizung, Rauch, Hummer, Kugel
+n00108427	Knuckleball, Knuckler
+n00108545	Überhand-Tonhöhe
+n00108665	Ball gepasst
+n00108818	Schraubendreher
+n00108965	sinker
+n00109081	Schieberegler
+n00109227	spucken, spucken
+n00109414	schlagen
+n00109771	U-Boot-Kugel, U-Boot-Spielfeld
+n00109892	wildes Pech
+n00110057	Basketballschuss
+n00110415	Bankschuss
+n00110554	Dunk, Dunk Shot, Zeug geschossen
+n00110745	Slam Dunk
+n00110834	Fingerrolle
+n00110964	Foulschuss, Freiwurf, Elfmeter-Freiwurf, Wohltätigkeitswurf, Wohltätigkeitswurf, Wohltätigkeitsschuss
+n00111222	eins und eins
+n00111358	Hakenschuss, Haken
+n00111503	Jumper, Sprungschuss
+n00111660	auflegen, auflegen
+n00111839	Pivot-Schuss
+n00111962	Schuss setzen
+n00112072	Schuß
+n00112185	Trinkgeld in
+n00112312	schieben, schieben
+n00112674	Depression
+n00112828	klick, mausklick
+n00112997	schubsen, joggen
+n00113113	drücken, drücken, drücken
+n00113532	Eindruck
+n00113726	schieben
+n00113954	Bündelung
+n00114095	drängeln, drängeln
+n00114298	Ellbogen
+n00114431	ziehen, ziehen
+n00114871	ziehen
+n00115036	ziehen, schleppen, schleppen
+n00115292	schleppen, schleppen
+n00115500	zerren, rucken
+n00115667	Entwurf, Entwurf, Zeichnung
+n00115803	Exstirpation, Exzision, Entwurzelung
+n00116008	zupfen
+n00116122	Traktion
+n00116376	heben, heben, heben
+n00116687	Vertreibung, Projektion, Auswurf, Vertreibung
+n00116989	Fenstersturz
+n00117124	Akkommodationsreflex
+n00117267	Babinski, Babinski-Reflex, Babinski-Zeichen
+n00117578	rülpsen, rülpsen, rülpsen, rülpsen, aufstoßen
+n00117810	rülpsen
+n00117959	blinzeln, augenblinzeln, blinzeln, zwinkern, zwinkern, Nicken, Nicken
+n00118268	erröten, erröten
+n00118445	husten
+n00118552	spucken, spucken, auswurf
+n00118733	Erbrechen, Erbrechen, Erbrechen, Aufstoßen, Ausstoßen, Kotzen
+n00119079	Wiederkäuen
+n00119210	Hämatemesis, Hämatemesis
+n00119297	Hyperemesis
+n00119402	Hyperemesis gravidarum
+n00119568	springen, springen
+n00119893	Header
+n00120010	hüpfen
+n00120202	springen, springen, Frühling, Saltation, gebunden, hüpfen
+n00120515	Gewölbe, Hürde
+n00120647	Auf-und Abspringen
+n00120804	Lob
+n00120943	Zentrierung, Schnapp
+n00121166	senden
+n00121366	Übertragung, Übertragung, Übertragung
+n00121645	Weiterleitung
+n00121904	Verweisung
+n00122106	Erlass, Erlass, Erlass
+n00122338	mailen, posten
+n00122530	rollen, rollen
+n00122661	schießen, erschossen
+n00122954	schießen
+n00123143	Gegenschuss
+n00123234	entladen, feuern, abfeuern
+n00123430	Pistole
+n00123652	Feuerkontrolle
+n00123783	Schüsse, Schuss
+n00124008	enfilade, enfilade feuer
+n00124151	Schnepfe
+n00124256	Kopfschuss
+n00124342	Tontaubenschießen, Tontaubenschießen, Trapschießen
+n00124536	Granatenfeuer
+n00124617	Schießerei, Schießerei, Schießerei
+n00124766	Schuss
+n00124880	Kontakt, Körperkontakt
+n00125126	reiben, wischen
+n00125315	scheuern
+n00125436	tippen, klopfen, tupfen
+n00125629	schlagen, schlagen, schlagen
+n00126100	Prellung
+n00126236	abstürzen, zerschmettern
+n00126447	Aufprall, Aufprall
+n00126584	mit der Wimper
+n00126721	Feldarbeit
+n00126886	fangen
+n00127021	Golfen
+n00127151	Pitching
+n00127286	Basen auf Bällen, gehen, passen
+n00127531	Beste
+n00127672	am schlimmsten
+n00127866	fairer Ball
+n00128091	fauler Ball
+n00128324	snick
+n00128477	bunt
+n00128638	flieg, flieg ball
+n00128867	sprengen
+n00128976	Pop-Fly, Pop-Fly, Pop-up
+n00129089	Grounder, Groundball, Groundball, Hopper
+n00129317	hacken, hacken
+n00129435	Rolle
+n00129527	aus
+n00129743	erzwingen, erzwingen, Spiel erzwingen, erzwingen
+n00130093	herausgeben
+n00130347	durchstreichen
+n00130512	Hauch
+n00130673	Wahl des Feldspielers
+n00130846	Opfern
+n00130987	Opferfliege
+n00131090	Basistreffer, Sicherheit
+n00131347	Gänseblümchenschneider
+n00131485	Header
+n00131608	Liner, Linienantrieb
+n00131791	scorcher, schreier
+n00131877	Line-Drive-Single, Line-Single
+n00131991	Line-Drive-Doppel, Line-Doppel
+n00132105	Line-Drive-Triple, Line-Triple
+n00132219	plunk, plunker
+n00132355	homer, home run
+n00132497	Solo-Homer, Solo-Explosion
+n00132601	einzeln, bingle
+n00132756	Double, Two-Base-Hit, Two-Bagger, Two-Baser
+n00132982	Triple, Three-Base-Hit, Three-Bagger
+n00133160	Rückhand
+n00133234	Clip
+n00133338	klopfen, Gürtel, Rap, Schlag, Whang
+n00133567	thwack
+n00133668	schmatzen, schmatzen, klatschen
+n00133875	Schmatzer
+n00133981	niederschlagen
+n00134099	KO, KO, Kayo
+n00134246	technischer Knockout, TKO
+n00134391	Klatsche
+n00134472	versohlen
+n00134574	peitsche, peitsche, peitsche
+n00134780	Schlagen, Schlagkraft, Stochern, Lecken, Biff, Schnecke
+n00135148	Kasten
+n00135311	graben, jab
+n00135504	kontern, parieren, kontern
+n00135637	Heumacher, Knockout Punsch, KO Punsch, Sonntagspunsch
+n00135799	Haken
+n00135952	Jab
+n00136048	Genickschlag
+n00136152	Sucker Punch
+n00136230	Rundhaus
+n00136329	treten, booten, treten
+n00136691	Torschuss
+n00136876	Torschuss
+n00136984	stochern, stochern
+n00137279	Platzstoß, Platzstoß
+n00137534	Freistoß
+n00137709	Eckstoß
+n00137877	Dropkick
+n00138078	Kuss
+n00138221	Kuss, Bus, Schmusen
+n00138441	auflegen
+n00138599	schmatzen, schmatzen
+n00138734	Schmatzer
+n00138799	Seelenkuss, tiefer Kuss, Zungenkuss
+n00138956	fangen, greifen, schnappen, schnappen
+n00139544	fairer Fang
+n00139758	Abfangen
+n00139919	Rezeption
+n00140112	Rebound
+n00140264	Schnürsenkel fangen
+n00140393	ineinandergreifen, ineinandergreifen, ineinandergreifen, ineinandergreifen
+n00140652	Handhabung, Manipulation
+n00140900	Fingersatz
+n00141027	tasten
+n00141176	Prüfung
+n00141396	Autopsie, Autopsie, Obduktion, Obduktion, PM, Obduktion, Obduktion
+n00141669	Check-In
+n00141806	Check, Checkout, Check-out-Verfahren
+n00142140	Stichprobe
+n00142361	untersuchung, ärztliche untersuchung, ärztliche untersuchung, ärztliche untersuchung, medizinisch, gesundheitsprüfung
+n00142665	vergleichen, vergleichen
+n00143057	feinzahniger Kamm, feinzahniger Kamm
+n00143251	Follow-up, Follow-up, erneute Untersuchung, Überprüfung
+n00143536	gehen über
+n00143626	einmal vorbei, schau vorbei
+n00143763	Ophthalmoskopie
+n00143885	Abtasten, taktische Erkundung
+n00144182	Stimmzettel
+n00144445	kitzeln, kitzeln, kitzeln
+n00144632	streicheln, streicheln
+n00144778	streicheln
+n00145024	Schild
+n00145218	verbinden, verbinden, verbinden
+n00145779	Schlag
+n00145929	Zusammenschaltung
+n00146111	Überschneidung
+n00146277	Annäherung, näher zusammenbringen
+n00146443	Verkettung
+n00146572	Konvergenz, Konvergenz, Konvergenz
+n00146856	verschmelzen, treffen, zusammenkommen
+n00147091	Zusammenfluss, Zusammenfluss
+n00147187	Begegnung, auftauchen
+n00147314	Artikulation
+n00147454	Kreuzung, Nebenstelle
+n00147595	Befestigung, Befestigung
+n00147862	Lockerung, Entspannung
+n00148057	Anziehen
+n00148242	Liga
+n00148446	Ligatur der Eileiter
+n00148653	Kleben, Löten
+n00148762	Dübeln
+n00148836	Erdung, Erdung
+n00148978	Verknüpfung
+n00149084	binden, binden
+n00149262	losbinden, lösen, lösen
+n00149508	Schweißen
+n00149699	Stumpfschweißen, Stumpfschweißen
+n00149895	Punktschweißen, Punktschweißen
+n00150097	aufflackern
+n00150228	Texas-Ligaspieler
+n00150379	Abbrennschweißen, Abbrennstumpfschweißen
+n00150591	lecken, schoß
+n00150762	grasen, rasieren, abschöpfen
+n00150932	Verfolgung
+n00151087	Aufspüren, Fangen, Spionieren, Spionieren, Beobachten
+n00151314	Selbstfindung
+n00151409	Durchbruch
+n00151497	Bestimmung, Feststellung
+n00151914	Wiederentdeckung
+n00152018	Bezeichnung, Identifikation
+n00152230	Bertillon-System
+n00152338	Fingerabdrücke
+n00152519	genetisches Profiling, genetischer Fingerabdruck
+n00152727	diagnostizieren, diagnostizieren
+n00152990	Blutgruppenbestimmung
+n00153105	medizinische Diagnose
+n00153288	Pränataldiagnostik
+n00153499	Differenzialdiagnose
+n00153665	Prognose, Aussicht, medizinische Prognose
+n00153809	Auflösung, Lösung
+n00153961	Validierung, Beweis, Begründung
+n00154233	Authentifizierung, Zertifizierung
+n00154433	Dokumentation, Support
+n00154689	Monetarisierung, Monetarisierung
+n00154894	Nachlass
+n00155085	Demonetisierung, Demonetisierung
+n00155298	Fälschung, Fälschung, Widerlegung, Widerlegung, Widerlegung
+n00155487	Lokalisierung, Lokalisierung, Ort, Lokalisierung, Fix
+n00155797	Echoortung, Echolotung
+n00155970	Vorherbestimmung
+n00156119	Berichtigung
+n00156293	Neubestimmung
+n00156390	Trigger, Induktion, Initiation
+n00156625	Anstiftung, Anstiftung
+n00156812	Zwang, Zwang
+n00157081	beeinflussen
+n00157318	Fremdbestäubung
+n00157463	Exposition
+n00157687	sehr ausgesetzt
+n00157877	Unterbelichtung
+n00157957	Aufprall, Eingriff, Auswirkung
+n00158185	Manipulation, Verwendung
+n00158443	Gedankenspiel
+n00158805	Autosuggestion, Autosuggestion, Selbstsuggestion
+n00158996	Hypnose, Mesmerismus, Suggestion
+n00159177	Veranlassung, Veranlassung
+n00159396	Korruption
+n00159620	Verlockung, Versuchung
+n00159899	Schmeichelei, Schmeichelei
+n00160073	Anbiederung, Anspielung
+n00160297	in die Irre führen, wegführen
+n00160415	Verführung
+n00160532	Verführung, Eroberung
+n00160688	sexuelle Eroberung, Partitur
+n00160922	Hahnrei
+n00161044	Aufforderung, Verlockung
+n00161243	Wahl, Auswahl, Option, Auswahl
+n00161603	Gießen
+n00161739	Färbung, Färbung
+n00161888	Probenahme
+n00162055	Stichproben
+n00162236	Glücksbad
+n00162417	geschichtete Probenahme, repräsentative Probenahme, proportionale Probenahme
+n00162632	Entscheidung, Entschlossenheit, Schlussfolgerung
+n00163047	willens, willens
+n00163233	Absicht
+n00163406	Kehrtwende, Kehrtwende, Umkehr, Politikänderung
+n00163630	Verfälschung
+n00163779	Ernennung, Zuordnung, Benennung, Benennung
+n00164152	Nominierung
+n00164345	Zuweisung, Zuweisung
+n00164579	Zuordnung, Speicherzuordnung
+n00164801	Anruf
+n00164999	Kooptation, Kooptation
+n00165178	Delegation
+n00165298	Ordination, Verordnung
+n00165563	Erkennung
+n00165793	Handauflegen
+n00165942	Bewegung
+n00166172	Bewegung
+n00166355	Schachzug
+n00166552	Burg, Burg
+n00166702	ergreifen
+n00166865	en passant
+n00167063	Austausch
+n00167278	Austausch
+n00167446	prüfen
+n00167580	entdeckt Scheck
+n00167764	Schachmatt, Kumpel
+n00167950	Gambit
+n00168121	demarche
+n00168237	Manöver, Manöver, taktisches Manöver, taktisches Manöver
+n00168505	Parken
+n00168658	Umzug, Umzug
+n00168911	huschen
+n00169047	herunterschalten
+n00169147	herunterschalten
+n00169305	Bank
+n00169522	vertikale Bank
+n00169651	Kronleuchter
+n00169811	Schleife, Schleife-die-Schleife
+n00170005	Innenschleife
+n00170172	Außenschleife
+n00170340	rollen
+n00170536	Fassrolle
+n00170643	Schnapprolle
+n00170710	rutschen, seitlich rutschen
+n00170844	Flugmanöver, Flugzeugmanöver
+n00171050	gerader Arm
+n00171249	Gerät, Spielerei, Drehung
+n00171507	Gedächtnisstütze
+n00171618	Trick, schnell
+n00171882	shtik, schtik, shtick, schtick
+n00172073	Finte
+n00172217	juke, fake
+n00172347	Beinarbeit
+n00172490	Trick, Schachzug, Strategie
+n00172598	List, Kunstgriff
+n00172710	Mittel, Agentur, Weg
+n00173172	dint
+n00173283	fliehen
+n00173487	Überholspur
+n00173761	Instrument, Werkzeug
+n00174003	Straße
+n00174127	königliche Straße
+n00174260	Sprungbrett
+n00174412	messen, Schritt
+n00174663	Gegenmaßnahme
+n00174782	Bärenumarmung
+n00174950	Stellvertreterkampf
+n00175174	Leveraged Buyout
+n00175433	Bust-up-Übernahme
+n00175605	Haiabwehrmittel, Stachelschweinversorgung
+n00175875	goldener Fallschirm
+n00176052	Greenmail
+n00176312	Pac-Man-Strategie
+n00176449	Giftpille
+n00176609	Selbstmordpille
+n00176766	sicherer Hafen
+n00176994	Politik der verbrannten Erde
+n00177127	Diagnoseverfahren, Diagnosetechnik
+n00177448	zweckmäßig
+n00177638	Rücklaufsperre
+n00177783	Notfallprotokoll
+n00178024	Versuchsdurchführung
+n00178177	Doppelblindverfahren, Doppelblindexperiment, Doppelblindstudie
+n00178551	Behelfslösung, Notlösung, behelfsmäßig
+n00178700	Krücke
+n00178832	Improvisation, vorübergehendes Hilfsmittel
+n00178972	Pis aller, letzter Ausweg
+n00179125	verzweifelte Maßnahme
+n00179275	Sesam öffne dich
+n00179380	Erlösung
+n00179576	Zahn
+n00179683	Stimme
+n00179916	Flügel
+n00180054	Lose werfen, Lose ziehen, sortieren
+n00180228	Auflösung
+n00180413	Annahme, Annahme, Annahme, Verlobung
+n00180770	Umarmung, Busen
+n00180962	Wahl
+n00181191	Kooptation, Kooptation
+n00181373	Wiederwahl
+n00181495	Volksabstimmung
+n00181640	Referendum
+n00181781	Wahl
+n00182213	Abstimmung
+n00182435	Parlamentswahlen
+n00182571	Vorwahl, Vorwahl
+n00182723	direkt primär
+n00182897	geschlossene primäre
+n00183084	Primär öffnen
+n00183240	Nachwahl, Nachwahl
+n00183357	abfließen
+n00183505	abstimmen, abstimmen, abstimmen, abstimmen
+n00183995	Stimme blockieren
+n00184135	kumulative Stimme
+n00184362	geheime Abstimmung
+n00184501	geteiltes Ticket
+n00184652	gerades Ticket
+n00184802	Mehrfachabstimmung
+n00184981	Stimmabgabe
+n00185104	Versöhnung, Ausgleich
+n00185307	gleichung, gleichsetzung
+n00185438	Steißgeburt, Steißgeburt, Steißvorstellung
+n00185612	Frank Breech, Frank Breech Lieferung
+n00185778	Kaiserschnitt, Kaiserschnitt, Kaiserschnitt, Kaiserschnitt, Kaiserschnitt, Kaiserschnitt, Kaiserschnitt, Kaiserschnitt, Kaiserschnitt, Kaiserschnitt, Kaiserschnitt, Kaiserschnitt, Kaiserschnitt, Abdominalgeburt
+n00186251	Zangenabgabe
+n00186549	Geburtshilfe
+n00186634	Spielstand
+n00187056	Bowling-Ergebnis
+n00187144	Volltreffer
+n00187337	Ziel
+n00187499	eigenes Ziel
+n00187710	Streik, Zehnerschlag
+n00187890	Ersatzteil
+n00188007	offener Rahmen, brechen
+n00188183	hörbar
+n00188341	Fußballergebnis
+n00188449	zurück berühren
+n00188620	Sicherheit
+n00188766	Landung
+n00188934	Feldtor
+n00189106	Wandlung
+n00189257	Punkt nach, Punkt nach Aufsetzen, Extrapunkt
+n00189476	Baseball-Ergebnis
+n00189565	laufen, zählen
+n00189896	verdienter Lauf
+n00190040	unverdienter Lauf
+n00190180	eingeschlagen laufen, rbi
+n00190338	Basketball-Ergebnis
+n00190431	Korb, Feldtor
+n00190579	Hattrick, Hat-Trick
+n00190783	Lösung
+n00190931	Russisches Roulette
+n00191142	Veränderung
+n00191980	Filterung
+n00192149	Versickerung
+n00192300	Reduktion, Vereinfachung
+n00192457	Schematisierung, Schematisierung
+n00192613	Wirtschaft, Sparen
+n00192910	Kürzung, Kürzung, Verkleinerung
+n00193099	Skaleneffekt
+n00193225	Unterkunft
+n00193406	Anpassung
+n00193622	Dunkeladaption
+n00193811	Lichtanpassung
+n00194005	aufheben
+n00194127	Neueinstellung
+n00194257	Domestikation
+n00194414	Dezimalisierung, Dezimalisierung
+n00194645	Metrifizierung, Metrikation
+n00194831	Gewöhnung
+n00194969	Variation, Varianz
+n00195194	Variation
+n00195415	drehen
+n00195569	Diversifikation, Abwechslung
+n00195938	Fluss
+n00196084	schalten, schalten, schalten
+n00196402	schalteroo
+n00196485	Substitution, Austausch, Kommutierung
+n00196848	Novation
+n00197136	Tonhöhenänderung
+n00197229	Rentenversicherung
+n00197419	Ersetzung, Ersetzung
+n00197610	Verdrängung, Verdrängung
+n00197772	ersetzen, ersetzen
+n00198118	Abtretung
+n00198270	Entwöhnung, Ablaktation
+n00198451	Förderung
+n00198631	Beförderung
+n00198793	Degradierung
+n00198919	Investition, Investitur
+n00199130	Zustandsänderung
+n00199707	Änderung, Modifikation, Anpassung
+n00200041	Ablenkung, Fehlleitung
+n00200244	Belüftung
+n00200379	Modulation
+n00200563	Qualifikation
+n00200768	Reorganisation
+n00201058	Durchgang, Übergang
+n00201269	Versteinerung, Versteinerung
+n00201397	Übergang
+n00201516	einmischen, manipulieren
+n00201671	Übertragung, Übertragung
+n00201923	Verbot, Hemmung, Verbot
+n00202284	Widerstand, Widerstand
+n00202620	Aussperrung
+n00202816	Reaktion
+n00203020	Rückschlag
+n00203208	Whitelash, weiße Backlash
+n00203342	Ablehnung
+n00203649	abwimmeln
+n00203753	ausweichen, abwenden, meiden, ausweichen
+n00204022	Abneigung, Abwendung
+n00204199	fliehen
+n00204334	nahe Sache
+n00204439	Verlassenheit, Verlassenheit, Verlassenheit
+n00204659	Exposition
+n00204814	Apostasie, tergiversation
+n00204943	Bolzen
+n00205079	Verzicht, Verzicht, Verzicht
+n00205349	Nichtannahme, Ablehnen
+n00205543	aufgeben, aufgeben
+n00205649	Selbstverleugnung, Selbstverleugnung, Selbstverleugnung, Selbstverleugnung
+n00205891	verfallen, verfallen, opfern
+n00206130	Boykott
+n00206302	Verbannung, Verbot
+n00206600	Anathematisierung, Anathematisierung
+n00206779	Entlassung
+n00206927	Ausweisung, Ausschluss, Vertreibung, Befreiung
+n00207306	Abschiebung
+n00207434	Ächtung
+n00207622	Sperren, Blackball
+n00207761	Exil, Abschiebung, Ausbürgerung, Transport
+n00208141	Babylonische Gefangenschaft
+n00208277	Exkommunikation, Exzision
+n00208521	Abstieg
+n00208694	Rustikation
+n00208797	verdrängen, verdrängen
+n00208943	Absetzung, Entthronung
+n00209132	Aussetzung, vorübergehende Entfernung
+n00209301	Rustikation
+n00209446	Verschiebung
+n00209546	Einspruch
+n00209680	Taschenveto
+n00209789	einschreiben
+n00209943	Beendigung, Ende, Abschluss
+n00210518	fertig, fertig
+n00210797	finale, schließen, vorhang schließen, finis
+n00210940	Release, Tonende
+n00211110	Abschluss, Höhepunkt, Abschluss, Aufziehen, Aufwischen
+n00211462	Abschluss, Abschluss
+n00211593	durchziehen
+n00211776	durchziehen
+n00212065	Abschluss
+n00212205	Ruhestand
+n00212377	Winterschlaf
+n00212551	Rustikation
+n00212678	Schwanengesang, letztes Hurra
+n00212808	Verzicht, Verzicht
+n00213052	Abtretung, Abtretung
+n00213186	aushändigen
+n00213343	aufgeben
+n00213482	Auslieferung
+n00213694	Freistellung, Verzicht, Entlassung
+n00213903	Befreiung, Immunität, Gewährung von Immunität
+n00214148	Fix
+n00214315	offizielle Immunität
+n00214526	souveräne Immunität
+n00214794	Transaktionsimmunität
+n00215013	Immunität verwenden, Testimonial-Immunität
+n00215314	Auflösung, Trennung
+n00215534	Splitsville
+n00215683	Sturz
+n00215838	Subversion, subversive Aktivität
+n00216038	Vertagung, Auflösung
+n00216174	Entlassung, Entlassung, Entlassung, Entlassung, Befreiung, Entlassung, Entlassung, Entlassung
+n00216607	conge, congee
+n00216723	Entfernung
+n00216834	säubern
+n00217014	Zerstörung, Verwüstung
+n00217499	Katastrophe
+n00217593	töten
+n00217773	verwüsten, ruinieren, ruinieren, ruinieren, zerstören
+n00218045	abschleifen, nivellieren, abreißen, abreißen
+n00218208	Vernichtung, Auslöschung
+n00218427	Dezimierung
+n00218602	Zerstäubung, Zerstäubung
+n00218753	pulverisieren, pulverisieren
+n00218902	Verdampfung, Verdampfung
+n00219012	töten, töten, töten
+n00219463	Todesstoß, Gnadenstoß
+n00219575	Tod
+n00219738	Drive-by-Tötung
+n00219856	Sterbehilfe, Gnadentod
+n00220023	Tötung
+n00220219	Ehrenmord
+n00220409	Totschlag
+n00220522	Mord, Ermordung, Hinrichtung
+n00221056	Ermordung
+n00221178	Blutvergießen, Blut
+n00221343	Chance-Medley
+n00221480	Auftragsmord
+n00221596	Vatermord
+n00221727	Marienmord
+n00221819	Muttermord
+n00221900	Vatermord
+n00221981	Brudermord
+n00222064	uxorizid
+n00222155	filizid
+n00222248	Versand, Versand
+n00222376	fiel
+n00222485	Selbstmord, Selbstzerstörung, Selbstvernichtung
+n00222766	Selbstzerstörung
+n00222939	Sterbehilfe
+n00223144	ärztlich assistierter Suizid
+n00223268	felo-de-se
+n00223362	Harakiri, Harakiri, Harikari, Seppuku
+n00223575	suttee
+n00223720	Beseitigung, Liquidation
+n00223854	schlachten
+n00223983	Abschlachten, Massaker, Massenmord, Gemetzel, Metzgerei
+n00224260	blutbad, blutvergießen, blutvergießen, jagd
+n00224599	Lynchen
+n00224738	Vergiftung
+n00224936	Vergasung
+n00225070	Königsmord
+n00225150	Schießen
+n00225361	Drive-by-Shooting
+n00225484	Flügelschießen
+n00225593	Erstickung, Erstickung
+n00225786	Würgen, Würgen, Würgen, Drosseln
+n00226107	Krampf
+n00226319	quetschen
+n00226511	Bronchospasmus
+n00226711	Kardiospasmus
+n00226951	heben, würgen
+n00227137	Kehlkopf
+n00227264	Strangulation
+n00227484	Carjacking
+n00227595	Opfer, rituelles Töten
+n00227848	Hekatombe
+n00227969	Verbrennung
+n00228078	Stromschlag
+n00228181	Enthauptung, Enthauptung
+n00228283	Abschaffung, Abschaffung
+n00228535	Liquidation, Abwicklung
+n00228762	Viatical-Siedlung, Viaticus-Siedlung
+n00228911	Entzug, Drogenentzug
+n00229034	kalter Truthahn
+n00229260	Schließung, Schließung, Schließung, Schließung
+n00229587	Werksschließung
+n00229688	Bankschließung
+n00229814	entlassen
+n00229934	erlöschen, löschen, löschen
+n00230172	verblassen, verschwinden
+n00230324	Abbruch
+n00230475	Spontanabort, Fehlgeburt, Totgeburt
+n00230703	gewohnheitsmäßige Abtreibung
+n00230824	bevorstehende Abtreibung, drohende Abtreibung
+n00230997	unvollständige Abtreibung, Teilabtreibung
+n00231161	induzierte Abtreibung
+n00231315	Abortizid, Fetizid
+n00231412	therapeutischer Schwangerschaftsabbruch
+n00231567	Aufhebung, Überschreibung
+n00231887	Aufhebung, Aufhebung, Annullierung
+n00232147	Ausnahme
+n00232386	Stornierung
+n00232604	abschreiben
+n00232765	Erlanger, ziviler Tod
+n00232863	Rücktritt, Rücktritt
+n00233212	Schaden
+n00233386	Neutralisation, Neutralisation, Gegenwirkung
+n00233614	deaktivieren, entschärfen
+n00233795	Deaktivierung, Inaktivierung
+n00233980	Ehrenvolle Entlassung
+n00234105	unehrenhafte Entlassung
+n00234277	Abschnitt Acht
+n00234423	Neutralisation, Neutralisation
+n00234675	Neutralisation, Neutralisation
+n00234892	Umkehrung
+n00235074	Verderben
+n00235208	Regression, Regress, Reversion, Retrogression, Retroversion
+n00235435	Anfang, Anfang, Anfang
+n00236194	Sprungbrett, Absprungpunkt, Ausgangspunkt
+n00236581	Beitritt, Machtübernahme
+n00236821	Aktivierung
+n00236953	Attack, Ton-Anfang
+n00237078	Verfassung, Gründung, Gründung, Organisation, Organisation
+n00237705	Neugründung
+n00237869	Schaffung
+n00238022	Einführung, Debüt, erster Auftritt, Einführung, Enthüllung, Eintritt
+n00238326	Arbeitseinleitung
+n00238527	Induktion
+n00238778	Hypnogenese
+n00238871	Produkteinführung
+n00239024	Konfrontation
+n00239230	erster Schritt, Initiative, Eröffnungszug, Eröffnung
+n00239483	Spatenstich, Spatenstich
+n00239666	Wohnungsstart
+n00239766	Eisbrecher
+n00239910	Einweihung, Inbetriebnahme
+n00240184	Initiierung, Gründung, Stiftung, Institution, Entstehung, Kreation, Innovation, Einführung, Einrichtung
+n00240754	Urheberschaft, Vaterschaft
+n00240938	Installation, Installation, Ratenzahlung, Ratenzahlung
+n00241245	Sprungball
+n00241507	Anstoß
+n00241699	starten, starten
+n00242003	Wiederaufnahme, Wiederaufnahme
+n00242146	Gedränge, Gedränge
+n00242431	Anlaufen
+n00242583	gewerkschaft, gewerkschaft
+n00242808	Erregung, mitreißend
+n00243102	Wecken
+n00243237	einleiten
+n00243373	Einweihung, Einweihung
+n00243577	Gardinenheber
+n00243662	erste Basis
+n00243813	Friedensinitiative
+n00243918	kochen, kochen, zubereiten
+n00246341	Backen
+n00246460	Kräuseln
+n00246552	rösten, bräunen
+n00246754	grillen, grillen, grillen
+n00246940	braten, sautieren
+n00247081	Fusionsküche
+n00247229	schmoren
+n00247342	Wilderei
+n00247442	Braten
+n00247654	grillen
+n00247792	kochen, dünsten, köcheln
+n00247955	Heften
+n00248063	Ausschreibung, Ausschreibung
+n00248252	Versickerung
+n00248368	Würze
+n00248534	salzen
+n00248636	süßen
+n00248748	Infusion
+n00248977	Verbesserung
+n00249501	Fortschritt, Fortschritt
+n00249780	Weiterleitung, Förderung, Förderung
+n00249987	schreiten
+n00250143	Arbeitsablauf, Arbeitsablauf
+n00250259	Entwicklung
+n00250597	Erweiterung
+n00250710	Ausarbeitung, Ausarbeitung
+n00250882	Produktentwicklung
+n00251013	reinigen, reinigen, aufräumen
+n00251520	Entwesung
+n00251636	Frühjahrsputz
+n00251780	schrubben, schrubben, scheuern
+n00252020	wischen, wischen
+n00252169	chemische Reinigung
+n00252307	fegen
+n00252430	säubern, säubern
+n00252662	säubern, säubern, säubern
+n00252894	Reinigung
+n00253070	Reinigung, Reinigung
+n00253270	Reinigung
+n00253395	Katharsis, Katharsis, Abreaktion
+n00253577	Katharsis, Katharsis, Reinigung
+n00253773	hoher Dickdarm
+n00253919	Sterilisation, Sterilisation
+n00254166	Pasteurisierung, Pasteurisierung
+n00254415	Hygiene, Desinfektion, Desinfektion
+n00254597	Enthaarung, Epilation
+n00254769	rasieren, rasieren
+n00254922	Tonsur
+n00255065	Elektrolyse
+n00255214	abwaschen, baden
+n00255450	Waschung
+n00255600	Geschirrspülen, Spülen
+n00255710	waschen, waschen, waschen
+n00256122	den Abwasch machen
+n00256217	Fensterputzen
+n00256309	spülen
+n00256407	spülen
+n00256501	einweichen, einweichen
+n00256620	bürsten, bürsten
+n00256746	kämmen, kämmen
+n00256961	auskämmen, necken
+n00257115	Shampoo
+n00257228	haarpflege, haarpflege, friseur
+n00257468	Haarweberei
+n00257580	Dusche, Duschbad
+n00257770	Bad
+n00257969	Schaumbad
+n00258093	Mikwe
+n00258301	Schlammbad
+n00258403	Schwammbad
+n00258530	Türkisches Bad, Dampfbad, Dampfbad, Dampfbad
+n00258695	abreiben
+n00258854	Berichtigung, Berichtigung
+n00259177	Wiedergutmachung, Abhilfe, Abhilfe
+n00259392	Salbe
+n00259544	Vergeltung
+n00259643	entschädigen, entschädigen
+n00259894	Entschädigung
+n00260051	Optimierung, Optimierung
+n00260494	Perfektion
+n00260622	Reform
+n00260881	Bodenreform
+n00261029	Besserung, Besserung, Besserung
+n00261258	Selbstverbesserung, Selbstreformation
+n00261405	Reform
+n00261604	Verschönerung
+n00261797	Schönheitsbehandlung
+n00261972	Verherrlichung, Verherrlichung, Verherrlichung, Verherrlichung
+n00262249	Dekoration
+n00262596	Schmuck
+n00262743	Verzierung, Verzierung
+n00262908	Schaufensterdekoration
+n00263000	trimmen
+n00263164	tessellieren
+n00263272	Figuration
+n00263353	Tätowierung
+n00263492	tittivation, tittivation
+n00263642	Markierung
+n00263813	Lineation
+n00263947	Sprenkeln
+n00264088	Streifen
+n00264192	Klärung, Klärung
+n00264366	Anreicherung
+n00264529	Befestigung
+n00264775	Humanisierung, Humanisierung
+n00264913	Modernisierung, Modernisierung
+n00265119	Renovierung, Sanierung, Überholung
+n00265472	Facelifting, Facelifting, Facelifting
+n00265773	moralisieren, moralisieren
+n00265992	Verfeinerung, Süßung
+n00266149	Aufschwung
+n00266253	Verschlechterung
+n00266401	Abschwung, Abschwung
+n00266560	Downspin
+n00266645	lüften, lüften
+n00266806	reparieren, reparieren, reparieren, reparieren, reparieren, reparieren
+n00267217	Stopfen
+n00267349	Patchen
+n00267522	Pflege, Wartung, Instandhaltung
+n00267821	Kamerapflege
+n00267917	Autopflege
+n00268025	Ölwechsel
+n00268112	Überholung, Inspektion und Reparatur, Service
+n00268341	Zwischenüberholung
+n00268457	Pflaster, schnelle Lösung, Quickie, Quicky
+n00268557	Wiederherstellung
+n00268824	Gentrifizierung
+n00269018	Rekultivierung, Erneuerung, Sanierung
+n00269258	Wiederaufbau
+n00269471	Anastylose
+n00269674	Verjüngungskur
+n00269856	Zusammenbau, Umbau
+n00269963	Neubildung, Regeneration
+n00270186	Wiederaufbau
+n00270275	Restitution
+n00270403	Pumpenansaugung
+n00270539	geplante Wartung
+n00270648	Dampfarmatur
+n00270800	Coaching, Trainerjob
+n00270919	Verlobung, Buchung
+n00271155	Soloauftritt
+n00271263	Abbau, Entwürdigung
+n00271636	Entmenschlichung, Entmenschlichung
+n00271879	Brutalisierung, Brutalisierung, Animalisierung, Animalisierung
+n00272123	Barbarisierung, Barbarisierung
+n00272303	Bastardisierung, Bastardisierung
+n00272448	Korruption, Subversion
+n00272713	Demoralisierung, Demoralisierung
+n00272878	Verdummung, Verstopfung, Beeinträchtigung, Abstumpfung
+n00273077	Popularisierung, Popularisierung, Vulgarisierung, Vulgarisierung
+n00273319	Profanation
+n00273449	Demütigung, Erniedrigung
+n00273601	herunter kommen
+n00273690	Farbwechsel
+n00273877	Aufhellung, Aufhellung
+n00274009	bleichen
+n00274206	Verärgerung
+n00274437	Schwärzen, Verdunkelung
+n00274586	Verschleierung
+n00274707	Verfärbung, Verfärbung
+n00274941	färben, färben
+n00275151	Tönung
+n00275307	Haare färben
+n00275424	Färberei
+n00275572	färben
+n00275751	Gram-Methode, Gram-Methode, Gram-Methode, Gram-Färbung, Gram-Färbung
+n00276189	Umweltschutz
+n00276342	fixieren, fixieren
+n00276620	Verschmutzung, Schmutz, Verschmutzung
+n00276813	Flecken, Flecken, Makulation
+n00276987	Verschmutzung, Verschmutzung
+n00277267	Staubbelastung
+n00277376	Benetzung
+n00277569	untertauchen, eintauchen, ducken, übergießen
+n00277811	durchnässen, einweichen, souse, sousing
+n00278040	befeuchtend, dämpfend
+n00278221	spritzen, spritzen
+n00278403	Bewässerung
+n00278555	besprühen, besprühen, sprühen
+n00278810	kauen, kauen, kauen, manduktion
+n00279136	kauen
+n00279235	murmeln, gummiern
+n00279377	Wiederkäuen
+n00279534	Bruxismus
+n00279674	Entlaubung
+n00279835	Bewegung, Bewegung, Bewegung
+n00280586	Bewegung
+n00280853	nähern, nähern, kommen
+n00281132	betreten
+n00281291	Hintertür, Hintertür
+n00281462	schließen, schließen
+n00281752	Landeanflug
+n00281898	Overshoot, Wave-Off, Go-Around
+n00282050	Fortschritt, Fortschritt, Prozession, Fortschritt, Fortschritt, Vorwärtsbewegung, Vorwärtsbewegung
+n00282485	drücken
+n00282613	Karriere, Lebensgeschichte
+n00282840	März
+n00282953	Klares Segeln, Klares Segeln, easy going
+n00283127	Fortbewegung, Reisen
+n00283450	Verzweigung
+n00283568	gehen, gehen
+n00283951	Umherwandeln
+n00284101	schlendern, promenade, bummeln, schlendern, wandern
+n00284409	wandern, schlängeln
+n00284544	verfassungsmäßig
+n00284665	Fuß
+n00284798	Spaziergang
+n00285141	Schlafwandeln, Somnambulismus, Somnambulation, Nyktambulismus, Noctambulation
+n00285387	schlafen reden, Somniloquie, Somniloquism
+n00285557	Schritt
+n00285889	Tempo, Schritt, Schritt
+n00286112	pass
+n00286240	Reise
+n00286360	ausweichen
+n00286497	Gangart
+n00286756	humpeln, humpeln, hinken
+n00286957	Gangart
+n00287142	Spaziergang
+n00287276	Gestell, Einzelfuß
+n00287449	joggen
+n00287561	Trab
+n00287762	steigender Trab
+n00287889	sitzender Trab
+n00288000	Dressur
+n00288190	geschwungen, gewölbt
+n00288384	Piaffe
+n00288486	Galopp, Lope
+n00288671	Galopp
+n00288880	Schritt
+n00288970	wandern, wandern, trampen
+n00289175	stapfen
+n00289267	Volant
+n00289388	taumeln, stolpern, taumeln
+n00289555	auf und ab
+n00289659	rollen
+n00289737	schlendern
+n00289906	überspringen
+n00290015	pirschen, wütender Gang
+n00290125	stolzieren, tänzeln, stolzieren
+n00290276	schlingern, stürzen
+n00290406	watscheln
+n00290579	marschieren, marschieren
+n00291004	Rückmarsch
+n00291154	Stechschritt
+n00291286	letzte Meile
+n00291400	Lockstep
+n00291663	Promenade
+n00291796	schneller Marsch
+n00291876	Routenmarsch
+n00291965	trödeln, trödeln
+n00292125	schleichen
+n00292269	Mondspaziergang
+n00292386	Wanderung
+n00292599	Dreh dich
+n00292712	schlurfen, schlurfen, schlurfen, schlurfen
+n00292981	Weltraumspaziergang
+n00293125	Mondspaziergang
+n00293307	waten
+n00293417	Rundgang
+n00293545	Rundgang
+n00293657	Rundgang
+n00293753	begehbar
+n00293916	laufen, laufen
+n00294190	Joggen, Trab, Lope
+n00294366	Dogtrott
+n00294452	sprinten, sprinten
+n00294577	schnelle Pause
+n00294748	brechen
+n00294868	kriechen, kriechen, kriechen, kriechen
+n00295172	Runde, Kreis, Runde
+n00295422	Pace-Runde
+n00295563	Siegesrunde, Ehrenrunde
+n00295701	reisen, reisen, reisen
+n00296263	Umrundung
+n00296478	Wanderschaft
+n00296585	Prozession
+n00296946	durchqueren, durchqueren
+n00297062	umherirren, umherstreifen, vagabundieren
+n00297318	Wegweiser
+n00297404	treibend
+n00297532	Kreuzung
+n00297657	Furt, Furt
+n00297863	flache Waten
+n00297951	tiefe Waten
+n00298047	durchqueren, durchqueren
+n00298161	Tourismus, Tourismus
+n00298351	Ökotourismus
+n00298497	Fahren
+n00299112	Autofahren
+n00299217	reiten, reiten
+n00299680	abseilen
+n00299826	Bronco-Busting
+n00299933	Ausdauerreiten
+n00300037	Rudelreiten
+n00300113	Wanderreiten
+n00300206	Wadenabseilen
+n00300333	Steer Roping
+n00300441	flugreisen, luftfahrt, luft
+n00301192	Flug
+n00301443	Anschlussflug
+n00301598	Direktflug
+n00301728	Inlandsflug
+n00301857	internationaler Flug
+n00302001	Nonstop-Flug, nonstop
+n00302185	Rote Augen, Rote Augen Flug
+n00302394	Flug, fliegen
+n0030286
